@@ -1,10 +1,11 @@
 # Mail-Manager
 Mail Manager: A web application where users can login and send recurring mails
 to the recipients.
+Link : http://mail-manager-1257.herokuapp.com/users/login
 
-##Description
+## Description
 This website is used to send recurring mails with an option to choose among different schedules.
-#####Features
+##### Features
 1. A user can register(sign up)/login in this website. To register the email has to be verified by clicking on the activation link sent on the given mail.
 2. General mail features are included such as To, Subject, Schedule Selector, Mail Body, Send Mail Button.
 3. Scheduling features have different types such as recurring schedule (send mail after every 30 second), weekly schedule, monthly schedule and yearly schedule.
@@ -13,7 +14,7 @@ This website is used to send recurring mails with an option to choose among diff
 6. History Page has the list of mails sent till now.
 7. Home Page has the list of all the mails scheduled for future.
 
-####Installation
+#### Installation
 To install the dependencies and packages required for the project use the following command after going into the preferred directory.
     
     npm i
